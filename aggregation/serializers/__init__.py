@@ -1,0 +1,1 @@
+from .received_data import ReceivedDataSerializer
